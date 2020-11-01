@@ -1,0 +1,17 @@
+﻿<Window x:Class="Json.First_Assessment.Product.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Json.First_Assessment.Product"
+        mc:Ignorable="d"
+        Title="ProductWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblTitle1" Content="Product 1" HorizontalAlignment="Left" Margin="10,28,0,0" VerticalAlignment="Top" Height="46" Width="269" Background="#FFF1BF67" FontFamily="Arial" FontSize="22"/>
+        <Label x:Name="lblOrderId" Content="Label" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
+        <Label x:Name="lblCreatedAt" Content="Label" HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
+        <Label x:Name="lblCustomerId" Content="Label" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
+        <Label x:Name="lblLineItems" Content="Label" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
+
+    </Grid>
+</Window>

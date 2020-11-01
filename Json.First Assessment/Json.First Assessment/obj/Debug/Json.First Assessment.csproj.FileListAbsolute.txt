@@ -1,0 +1,20 @@
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\bin\Debug\Json.First Assessment.exe.config
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\bin\Debug\Json.First Assessment.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\bin\Debug\Json.First Assessment.pdb
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.csprojAssemblyReference.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Product\ProductWindow.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\App.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment_MarkupCompile.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment_MarkupCompile.lref
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\MainWindow.baml
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Product\ProductWindow.baml
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.g.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First_Assessment.Properties.Resources.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.csproj.GenerateResource.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.csproj.CopyComplete
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\Json\ASSESSMENT\Json.First Assessment\Json.First Assessment\obj\Debug\Json.First Assessment.pdb

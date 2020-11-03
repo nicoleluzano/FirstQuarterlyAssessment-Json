@@ -5,13 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Json.First_Assessment.Product"
         mc:Ignorable="d"
-        Title="ProductWindow" Height="450" Width="800">
+        Title="ProductWindow" Height="578.351" Width="800">
     <Grid>
         <Label x:Name="lblTitle1" Content="Product 1" HorizontalAlignment="Left" Margin="10,28,0,0" VerticalAlignment="Top" Height="46" Width="269" Background="#FFF1BF67" FontFamily="Arial" FontSize="22"/>
         <Label x:Name="lblOrderId" Content="Label" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
         <Label x:Name="lblCreatedAt" Content="Label" HorizontalAlignment="Left" Margin="10,148,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
         <Label x:Name="lblCustomerId" Content="Label" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
         <Label x:Name="lblLineItems" Content="Label" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Height="50" Width="269" Background="#FFEED152"/>
+        <Label x:Name="lblTitle2" Content="Label" HorizontalAlignment="Left" Margin="364,28,0,0" VerticalAlignment="Top" Width="383" Height="274" Background="#FF73ECFF"/>
+        <Label x:Name="lblTitle2_Copy" Content="Label" HorizontalAlignment="Left" Margin="363,307,0,0" VerticalAlignment="Top" Width="384" Height="202" Background="#FF9181F3"/>
+        <Label x:Name="lblProductId" Content="Label" HorizontalAlignment="Left" Margin="378,61,0,0" VerticalAlignment="Top" Height="47" Width="320" Background="#FF4CA490"/>
+        <Label x:Name="lblProductId_Copy" Content="Label" HorizontalAlignment="Left" Margin="378,61,0,0" VerticalAlignment="Top" Height="47" Width="320" Background="#FF4CA490"/>
+        <Label x:Name="lblQuantity" Content="Label" HorizontalAlignment="Left" Margin="378,176,0,0" VerticalAlignment="Top" Height="47" Width="320" Background="#FF4CA490"/>
+        <Label x:Name="lblPrice1" Content="Label" HorizontalAlignment="Left" Margin="378,120,0,0" VerticalAlignment="Top" Height="47" Width="320" Background="#FF4CA490"/>
+        <Label x:Name="lblTaxLines" Content="Label" HorizontalAlignment="Left" Margin="378,238,0,0" VerticalAlignment="Top" Height="48" Width="320" Background="#FF4CA490"/>
+        <Label x:Name="lblPrice2" Content="Label" HorizontalAlignment="Left" Margin="378,336,0,0" VerticalAlignment="Top" Height="48" Width="320" Background="#FF904CA4"/>
+        <Label x:Name="lblTitle" Content="Label" HorizontalAlignment="Left" Margin="378,442,0,0" VerticalAlignment="Top" Height="48" Width="320" Background="#FF904CA4"/>
+        <Label x:Name="lblRate" Content="Label" HorizontalAlignment="Left" Margin="378,389,0,0" VerticalAlignment="Top" Height="48" Width="320" Background="#FF904CA4"/>
 
     </Grid>
 </Window>
